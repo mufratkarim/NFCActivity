@@ -10,6 +10,8 @@ An NFC Starter App in Kotlin that is used to read various tags(NDEF, RFID, FeliC
 
 # Screenshots
 <div style="width:100%; display:flex; justify-content:space-between;">
-  ![initial-screen](https://github.com/mufratkarim/NFCActivity/assets/37815709/c56f05b6-fe0c-49b7-b018-b98a65a92b03)
-  ![after-nfs-detection](https://github.com/mufratkarim/NFCActivity/assets/37815709/1eaa7755-4690-470f-869d-a2a40198b9a7)
+
+[<img src="https://github.com/mufratkarim/NFCActivity/assets/37815709/c56f05b6-fe0c-49b7-b018-b98a65a92b03" width=20% alt="initial-screen">](https://github.com/mufratkarim/NFCActivity/assets/37815709/c56f05b6-fe0c-49b7-b018-b98a65a92b03)
+[<img src="https://github.com/mufratkarim/NFCActivity/assets/37815709/1eaa7755-4690-470f-869d-a2a40198b9a7" width=20% alt="after-nfs-detection">](https://github.com/mufratkarim/NFCActivity/assets/37815709/1eaa7755-4690-470f-869d-a2a40198b9a7)
+
 </div>
